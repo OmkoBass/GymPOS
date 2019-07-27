@@ -1,0 +1,7 @@
+C:\Git\GymPOS\GymPOS\GymPOS\bin\Debug\GymPOS.exe.config
+C:\Git\GymPOS\GymPOS\GymPOS\bin\Debug\GymPOS.exe
+C:\Git\GymPOS\GymPOS\GymPOS\bin\Debug\GymPOS.pdb
+C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.csprojAssemblyReference.cache
+C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.csproj.CoreCompileInputs.cache
+C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.exe
+C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.pdb
