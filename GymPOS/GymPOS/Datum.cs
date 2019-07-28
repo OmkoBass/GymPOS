@@ -39,7 +39,7 @@ namespace GymPOS
                 case 12:
                     this.dan = (this.dan + 30) % 31;
                     mesec++;
-                    if(mesec >= 13) { godina++; mesec = 0; }
+                    if(mesec >= 13) { godina++; mesec = 1; }
                     break;
                 case 2:
                     if((this.godina % 4 == 0) && (this.godina % 100 == 0) && (this.godina % 400 == 0))
