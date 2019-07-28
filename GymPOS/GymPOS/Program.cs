@@ -13,11 +13,6 @@ namespace GymPOS
         static void Main(string[] args)
         {
             Datum d = new Datum(31, 51, 6123);
-            /*clanovi.Add(new Member("Idris", "Namcori", d));            
-            clanovi.Add(new Member("Ramadan", "Rahmani", d));            
-            clanovi.Add(new Member("Emir", "Abazovic", d));            
-            clanovi.Add(new Member("Mervan", "Mecikukic", d));            
-            clanovi.Add(new Member("Arslan", "Agovic", d));*/
             Console.WriteLine("GYM POS");
             while (true)
             {
