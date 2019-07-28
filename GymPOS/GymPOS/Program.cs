@@ -76,9 +76,7 @@ namespace GymPOS
 
         private static string format(string a)
         {
-            a = a.ToLower();
-            string temp = a.First().ToString().ToUpper();
-            a = temp + a.Substring(1);
+            a = a.First().ToString().ToUpper() + a.Substring(1).ToLower();
             return a;
         }
 
