@@ -5,3 +5,10 @@ C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.csprojAssemblyReference.cache
 C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.csproj.CoreCompileInputs.cache
 C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.exe
 C:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.pdb
+D:\Git\GymPOS\GymPOS\GymPOS\bin\Debug\GymPOS.exe.config
+D:\Git\GymPOS\GymPOS\GymPOS\bin\Debug\GymPOS.exe
+D:\Git\GymPOS\GymPOS\GymPOS\bin\Debug\GymPOS.pdb
+D:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.csprojAssemblyReference.cache
+D:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.csproj.CoreCompileInputs.cache
+D:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.exe
+D:\Git\GymPOS\GymPOS\GymPOS\obj\Debug\GymPOS.pdb

@@ -49,7 +49,8 @@ namespace GymPOS
 
             Console.Write("Ime: "); ime = Console.ReadLine();
             Console.Write("Prezime: "); prezime = Console.ReadLine();
-            //Moze da se doda da prvo slovo imena stavi kao Upper a ostala kao lower
+            ime = format(ime);
+            prezime = format(prezime);
 
             Console.Write("(Dan Mesec Godina) Datum: ");
             try
@@ -71,6 +72,14 @@ namespace GymPOS
             }
             catch
             { Console.WriteLine("Los Unos.\n"); }
+        }
+
+        private static string format(string a)
+        {
+            a = a.ToLower();
+            string temp = a.First().ToString().ToUpper();
+            a = temp + a.Substring(1);
+            return a;
         }
 
         private static bool checkDate(int d, int m, int g)
