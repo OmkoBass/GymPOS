@@ -39,20 +39,20 @@ namespace GymPOS
                 case 12:
                     this.dan = (this.dan + 30) % 31;
                     mesec++;
-                    if(mesec >= 13) { godina++; mesec = 0; }
+                    if(mesec >= 13) { godina++; mesec = 1; }
                     break;
                 case 2:
                     if((this.godina % 4 == 0) && (this.godina % 100 == 0) && (this.godina % 400 == 0))
                     {
                         this.dan = (this.dan + 30) % 30;
                         mesec++;
-                        if (mesec >= 13) { godina++; mesec = 0; }
+                        if (mesec >= 13) { godina++; mesec = 1; }
                     }
                     else
                     {
                         this.dan = (this.dan + 30) % 29;
                         mesec++;
-                        if (mesec >= 13) { godina++; mesec = 0; }
+                        if (mesec >= 13) { godina++; mesec = 1; }
                     }
                     break;
                 case 4:
@@ -61,7 +61,7 @@ namespace GymPOS
                 case 11:
                     this.dan = (this.dan + 30) % 31;
                     mesec++;
-                    if (mesec >= 13) { godina++; mesec = 0; }
+                    if (mesec >= 13) { godina++; mesec = 1; }
                     break;
             }
             if(this.dan == 0) { dan++; }
